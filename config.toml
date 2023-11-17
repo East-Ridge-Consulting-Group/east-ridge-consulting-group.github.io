@@ -48,7 +48,11 @@ title = "The East Ridge Consulting Group - Business Professionals"
     hidedesignbyline = true
 
     # The sections of the home page alternate styling. Mark invert as true to swap the styling of the sections
-    invertSectionColors = false
+    invertSectionColors = true
     
     [params.meta]
         keywords = "East Ridge Consultants, business, consulting, help, East Ridge, Florida"
+
+[markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true 
