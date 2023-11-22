@@ -7,7 +7,7 @@ header_menu: true
 ---
 
 
-![handshake](/images/handshake.png)
+![handshake](/images/helpup.jpg)
 ##### {{<icon class="fa fa-check-square-o">}} Leadership Coaching
 <font size="3">
 The majority of employees don’t leave bad jobs; they leave bad leaders.
