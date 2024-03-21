@@ -7,7 +7,7 @@ header_menu: true
 Please send a quick message and someone on our team will reach out soon!
 
 <div class="container">
-  <form action="/action_page.php">
+  <form action="https://script.google.com/macros/s/AKfycbzXt_BF4mdbg8TTuplUXjeBiMOR6HTOBqFdqiAWWGJY3fT2VgwMNwO4h0vBlmb1GP1a/exec">
     <div class="row">
       <div class="col-100">
         <input type="text" id="name" name="name" placeholder="Name">
