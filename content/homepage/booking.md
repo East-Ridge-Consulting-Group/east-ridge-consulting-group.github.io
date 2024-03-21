@@ -16,7 +16,7 @@ Click the button below to schedule an appointment.
   window.addEventListener('load', function() {
     calendar.schedulingButton.load({
       url: 'https://calendar.google.com/calendar/appointments/AcZssZ25flTaVyPYOQ04oEURj22hw8S1Slq3_JtkLRM=?gv=true',
-      color: '#039BE5',
+      color: '#3c4b00',
       label: 'Book an appointment',
       target,
     });
